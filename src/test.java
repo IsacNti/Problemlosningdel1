@@ -8,6 +8,10 @@ public class test {
         System.out.println(om.reverseString("livet svårt"));
         System.out.println(om.capitalizeWord("mitt förnamn och efternamn"));
         System.out.println(om.capitalizeWord("I am sonoo jaiswal"));
+        String a = null;
+        String b = null;
+        System.out.println(om.palindromeWord("AnnA"));
+
     }
 }
 
